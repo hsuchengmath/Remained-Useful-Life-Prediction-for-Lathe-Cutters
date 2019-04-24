@@ -1,1 +1,1 @@
-# Remained-Useful-Life-Prediction-for-Lathe-Cutters
+# Remained Useful Life Prediction for Lathe cutters
